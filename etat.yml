@@ -1,6 +1,7 @@
-lieu: table-ronde
+lieu: montagne
 inventaire:
-  - cheval
+  - grimoire
+  - Cheval
 personnages:
   - moi:
     - santé: 10
